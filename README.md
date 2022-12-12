@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [sky-messenger](https://github.com/sorenammd/sky-messenger.git)
+<h4 align="left"> My Projects:</h1>
 
-- 🤝 I’m looking to collaborate on Node.js [AlanMovie](https://github.com/sorenammd/alanmovie.git)
-
-- 🌱I’m currently learning Next js [Portfolio-Website](https://github.com/sorenammd/Portfolio-Website.githttps://github.com/sorenammd/Portfolio-Website.git)
+- [AlanMovie](https://github.com/sorenammd/alanmovie.git)
+- [sky-messenger](https://github.com/sorenammd/sky-messenger.git)
+- [Portfolio-Website](https://github.com/sorenammd/Portfolio-Website.githttps://github.com/sorenammd/Portfolio-Website.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
