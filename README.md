@@ -1,5 +1,4 @@
 <div align="left" >
-<br>
 <h2 align="left">My Projects:</h2>
 <ul align="left">
  <li> <a href="https://github.com/sorenammd/alanmovie">
