@@ -16,7 +16,7 @@
 <img align='right' height='160' style="margin-right:20px" src='https://user-images.githubusercontent.com/107199800/207419886-ec77ca80-f7e5-4814-8846-83ac9382f737.gif' alt='Social Networks'>
 
 <br>
-<h2 align="left">Social Networks</h2>
+<h2 align="left">Social Networks:</h2>
 
  [![LinkedIn][2.2]][2]
 
