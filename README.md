@@ -11,7 +11,7 @@
   Portfolio Website
   </a></li>
   <li> <a href="https://github.com/sorenammd/dashboard">
-   Dashboard (completing)
+   Dashboard
   </a></li>
 </ul>
 
