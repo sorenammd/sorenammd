@@ -14,7 +14,7 @@
    Dashboard
   </a></li>
    <li> <a href="https://github.com/sorenammd/social-media-app">
-   social media app (completing)
+   Social Media App (completing)
   </a></li>
 </ul>
 
