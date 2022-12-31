@@ -13,6 +13,9 @@
   <li> <a href="https://github.com/sorenammd/dashboard">
    Dashboard
   </a></li>
+   <li> <a href="https://github.com/sorenammd/social-media-app">
+   social media app (completing)
+  </a></li>
 </ul>
 
 
