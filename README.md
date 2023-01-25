@@ -1,14 +1,19 @@
 <div align="left" >
 <h2 align="left">My Projects:</h2>
 <ul align="left">
+ <h3 align="left">Frontend:</h2>
  <li> <a href="https://github.com/sorenammd/alanmovie">
  AlanMovie
   </a></li>
+  <li> <a href="https://github.com/sorenammd/pepsi-page">
+ pepsi-page
+  </a></li>
+  <li> <a href="https://github.com/sorenammd/Portfolio-Website">
+  Portfolio Website
+  </a></li>
+  <h3 align="left">Fullstack:</h2>
  <li> <a href="https://github.com/sorenammd/sky-messenger">
  Sky messenger
-  </a></li>
- <li> <a href="https://github.com/sorenammd/Portfolio-Website">
-  Portfolio Website
   </a></li>
   <li> <a href="https://github.com/sorenammd/dashboard">
    Dashboard
