@@ -11,7 +11,9 @@
    <li> <a href="https://github.com/sorenammd/Cookie-Pop-Up">
  Cookie Pop-Up
   </a></li>
-
+   <li> <a href=" https://github.com/sorenammd/Text-Reveal">
+Text Reveal
+  </a></li>
   <li> <a href="https://github.com/sorenammd/Portfolio-Website">
   Portfolio Website
   </a></li>
