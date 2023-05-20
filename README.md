@@ -14,6 +14,9 @@
    <li> <a href="https://github.com/sorenammd/Text-Reveal">
  Text Reveal
   </a></li>
+   <li> <a href="https://github.com/sorenammd/icon-animation">
+  Icons Animation
+  </a></li>
   <li> <a href="https://github.com/sorenammd/Portfolio-Website">
   Portfolio Website
   </a></li>
