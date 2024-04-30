@@ -26,7 +26,7 @@
   Icons Animation
   </a></li>
 
-  <h3 align="left">Fullstack:</h3>
+  <h3 align="left">Backebd + Frontend:</h3>
  <li> <a href="https://github.com/sorenammd/sky-messenger">
  Sky messenger
   </a></li>
